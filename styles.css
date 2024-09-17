@@ -1,0 +1,45 @@
+/* index.css */
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header styles */
+h1 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+
+/* Subheader styles */
+h2 {
+    color: #3498db;
+    margin-top: 20px;
+}
+
+/* Paragraph styles */
+p {
+    margin-bottom: 20px;
+}
+
+/* List styles */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Link styles */
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
